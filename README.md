@@ -7,7 +7,7 @@ like support@domain-name
 
 So basically this program takes a website which have all the list of companies like Justdial / Clutch / Seedtable.
  
-All you need to do is copy the URL of the webistes like clutch in which the comapnies name includes & paste that in program & also it has a function which jumps to next pages also.
+All you need to do is copy the URL of the websites like clutch in which the companies name includes & paste that in program & also it has a function which jumps to next pages also.
 
 # So Enjoy email Scrapping
 
