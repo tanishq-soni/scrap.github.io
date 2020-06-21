@@ -1,7 +1,8 @@
 # It is a email scrapping program build in python.
 
 It basically targets the domain of the companies in different countries & every company mails includes 
-('social', 'marketing', 'hello', 'contact', 'support', 'info', 'press','media', 'team', 'sales', 'enquiries', 'help', 'business', 'service', 'career', 'community', 'opportunities') like support@domain-name
+('social', 'marketing', 'hello', 'contact', 'support', 'info', 'press','media', 'team', 'sales', 'enquiries', 'help', 'business', 'service', 'career', 'community', 'opportunities') like 
+support@domain-name
 at the beginning of their email domain.
 
 So basically this program takes a website which have all the list of companies like Justdial / Clutch / Seedtable.
